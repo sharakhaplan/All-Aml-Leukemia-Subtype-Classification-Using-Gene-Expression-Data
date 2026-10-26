@@ -1,1 +1,15 @@
+# Data Directory
+
+This directory contains the datasets used in the ALL/AML leukemia subtype classification project.
+
+## Purpose
+The data is used for exploratory data analysis (EDA), data preprocessing, and gene expression-based classification of Acute Lymphoblastic Leukemia (ALL) and Acute Myeloid Leukemia (AML).
+
+## Data Files
+The CSV files used in this project will be stored in this directory.
+
+## Notes
+- The datasets will be examined before model development.
+- Data preprocessing steps will be documented during the project.
+- Dataset sources and relevant references will be provided in the main project README.
 
